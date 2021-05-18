@@ -1,7 +1,4 @@
 # Gini_Hung-QSAR_GCN
-## Requirements
-* python 3.6+ is required
-* [Setup](#setup) 
 
 ## General info
 This project is QSAR modeling without descriptors using graph convolutional neural networks:
