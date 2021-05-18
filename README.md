@@ -6,6 +6,8 @@
 ## General info
 This project is QSAR modeling without descriptors using graph convolutional neural networks:
 The case of mutagenicity prediction
+
+Two models based on Graph Convolutional Neural Networks (GCN) are presented, with and without a Bayesian estimation of the prediction uncertainty, to study mutagenicty.
 	
 ## Technologies
 Project is created with:
@@ -14,10 +16,12 @@ Project is created with:
 * Rdkit version: 2019.09.1
 	
 ## Setup
-To run this project, install dependencies first:
+To install the dependencies:
 
 ```
   $ conda create -c conda-forge -n my-rdkit-env rdki
   $ conda activate my-rdkit-env
   pip install tensorflow
   pip install numpy
+  ```
+  
