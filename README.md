@@ -2,6 +2,7 @@
 <p align="center">
   <img height="250" src="IMG/img1.png">
 </p>
+
 ## General info
 This project is QSAR modeling without descriptors using graph convolutional neural networks:
 The case of mutagenicity prediction
@@ -11,6 +12,7 @@ Two models based on Graph Convolutional Neural Networks (GCN) are presented, wit
 <p align="center">
   <img height="500" src="IMG/img2.jpg">
 </p>
+
 ## Technologies
 Project is created with:
 * Python version: 3.7.5
