@@ -24,9 +24,6 @@ Project is created with:
 To install the dependencies:
 
 ```
-  $ conda create -c conda-forge -n my-rdkit-env rdki
-  $ conda activate my-rdkit-env
-  pip install tensorflow
-  pip install numpy
+  pip install -r requirements.txt
   ```
   
