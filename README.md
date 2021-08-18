@@ -1,10 +1,10 @@
 # Gini_Hung-QSAR_GCN
-<p align="center">
-  <img height="250" src="IMG/img1.png">
+<p align="left">
+  <img height="100" src="IMG/img1.png">
 </p>
 
 <p align="center">
-  <img height="300" src="IMG/img2.jpg">
+  <img height="500" src="IMG/img2.jpg">
 </p>
 ## General info
 This project is QSAR modeling without descriptors using graph convolutional neural networks:
