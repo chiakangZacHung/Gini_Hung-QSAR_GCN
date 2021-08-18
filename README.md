@@ -4,6 +4,7 @@
 
 This project is QSAR modeling without descriptors using graph convolutional neural networks:The case of mutagenicity prediction
 The research is published in Springer and Elsevier:
+
 <p align="center">
  <img height="200" src="IMG/img6.png"> <img height="350" src="IMG/img1.png"> 
 </p>
