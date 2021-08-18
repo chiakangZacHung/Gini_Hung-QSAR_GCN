@@ -1,5 +1,7 @@
 # Gini_Hung-QSAR_GCN
-
+<p align="center">
+    <img src="https://imgur.com/ciRviLW" width="180" alt="Spring"/>
+</p>
 ## General info
 This project is QSAR modeling without descriptors using graph convolutional neural networks:
 The case of mutagenicity prediction
