@@ -16,6 +16,7 @@ Two models based on Graph Convolutional Neural Networks (GCN) are presented, wit
 
 ## Publication
 The paper associated to the work is linked below
+
 https://link.springer.com/article/10.1007/s11030-021-10250-2
 
 ## Technologies
