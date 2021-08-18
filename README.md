@@ -1,5 +1,5 @@
 # Gini_Hung-QSAR_GCN
-<p align="center">
+<p align="left">
   <img height="150" src="IMG/img1.png">
 </p>
 ## General info
