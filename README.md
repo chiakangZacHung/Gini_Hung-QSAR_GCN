@@ -1,11 +1,12 @@
 # Gini_Hung-QSAR_GCN
+
+## General info
+
+This project is QSAR modeling without descriptors using graph convolutional neural networks:The case of mutagenicity prediction
+The research is published in:
 <p align="center">
   <img height="250" src="IMG/img1.png">
 </p>
-
-## General info
-This project is QSAR modeling without descriptors using graph convolutional neural networks:
-The case of mutagenicity prediction
 
 Two models based on Graph Convolutional Neural Networks (GCN) are presented, with and without  Bayesian estimation of the prediction uncertainty, to study mutagenicty.
 
