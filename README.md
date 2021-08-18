@@ -1,6 +1,6 @@
 # Gini_Hung-QSAR_GCN
 <p align="center">
-  <img height="500" src="IMG/img1.png">
+  <img height="250" src="IMG/img1.png">
    <img height="500" src="IMG/img2.jpg">
 </p>
 ## General info
