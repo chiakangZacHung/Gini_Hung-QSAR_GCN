@@ -4,7 +4,7 @@
 This project is QSAR modeling without descriptors using graph convolutional neural networks:
 The case of mutagenicity prediction
 
-Two models based on Graph Convolutional Neural Networks (GCN) are presented, with and without a Bayesian estimation of the prediction uncertainty, to study mutagenicty.
+Two models based on Graph Convolutional Neural Networks (GCN) are presented, with and without  Bayesian estimation of the prediction uncertainty, to study mutagenicty.
 	
 ## Technologies
 Project is created with:
