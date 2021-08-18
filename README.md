@@ -10,11 +10,13 @@ The research is published in Springer and Elsevier:
 
 Two models based on Graph Convolutional Neural Networks (GCN) are presented, with and without  Bayesian estimation of the prediction uncertainty, to study mutagenicty.
 
+Deep neural networks are effective in learning directly from low-level encoded data without the need of feature extraction. This paper shows how QSAR models can be constructed from 2D molecular graphs without computing chemical descriptors. Two graph convolutional neural network-based models are presented with and without a Bayesian estimation of the prediction uncertainty.
+
 <p align="center">
   <img height="500" src="IMG/img2.jpg">
 </p>
 
-Deep neural networks are effective in learning directly from low-level encoded data without the need of feature extraction. This paper shows how QSAR models can be constructed from 2D molecular graphs without computing chemical descriptors. Two graph convolutional neural network-based models are presented with and without a Bayesian estimation of the prediction uncertainty. The property under investigation is mutagenicity: Models developed here predict the output of the Ames test. These models take the SMILES representation of the molecules as input to produce molecular graphs in terms of adjacency matrices and subsequently use attention mechanisms to weight the role of their subgraphs in producing the output. The results positively compare with current state-of-the-art models. Furthermore, our proposed model interpretation can be enhanced by the automatic extraction of the substructures most important in driving the prediction, as well as by uncertainty estimations.
+ The property under investigation is mutagenicity: Models developed here predict the output of the Ames test. These models take the SMILES representation of the molecules as input to produce molecular graphs in terms of adjacency matrices and subsequently use attention mechanisms to weight the role of their subgraphs in producing the output. The results positively compare with current state-of-the-art models. Furthermore, our proposed model interpretation can be enhanced by the automatic extraction of the substructures most important in driving the prediction, as well as by uncertainty estimations.
 
 ## Publication
 The paper associated to the work is linked below
