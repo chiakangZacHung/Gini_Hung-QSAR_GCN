@@ -19,6 +19,24 @@ Deep neural networks are effective in learning directly from low-level encoded d
  The property under investigation is mutagenicity: Models developed here predict the output of the Ames test. These models take the SMILES representation of the molecules as input to produce molecular graphs in terms of adjacency matrices and subsequently use attention mechanisms to weight the role of their subgraphs in producing the output. The results positively compare with current state-of-the-art models. 
  
  Furthermore, our proposed model interpretation can be enhanced by the automatic extraction of the substructures most important in driving the prediction, as well as by uncertainty estimations.
+ 
+ ## Results
+Below is the automatic extraction of the structural alert:
+<p align="center">
+  <img height="270" src="IMG/img3.png">
+</p>
+Below is the correlation between output probability and epistemic uncertainty in the test data
+
+<p align="center">
+    
+  <img height="270" src="IMG/img4.png">
+</p>
+Below is the correlation between output probability and the aleatoric uncertainty in the test data
+
+<p align="center">
+    
+  <img height="270" src="IMG/img5.png">
+</p>
 
 ## Publication
 The paper associated to the work is linked below
